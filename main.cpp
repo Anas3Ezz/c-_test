@@ -1,22 +1,18 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
+//q1
+    cout<< "GG" << endl;
 
-int x =5;
 
 
-     do
-    {
-       cout<<"GGGG"<<endl;
-    } while (x > 4);
-    
-   
-    
+
 
 }
 
 
-//while
-//do while
+
+
+
+//======== q1 ========
