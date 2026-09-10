@@ -1,16 +1,11 @@
 void main() {
 
 
-  print(Animal.x);
-
+print('GG');
 
 
   }
  
-
- class Animal {
- static int x = 4;
- }
 
 
 
